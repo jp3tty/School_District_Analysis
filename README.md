@@ -1,7 +1,6 @@
 # School_District_Analysis
-
 ## Overview
-A school district would like a snapshot of their high schools in the following ways:
+A school district asked for a snapshot of their high school test results in the following ways:
 
 * Top 5 and bottom 5 performing schools, based on the overall passing rate.
 * The average math score received by students in each grade level at each school.
@@ -11,7 +10,9 @@ A school district would like a snapshot of their high schools in the following w
 * School performance based on the school size.
 * School performance based on the type of school.
 
-School district found issues with Thomas High School's 9th grade scores. Initial analysis was adjusted to reflect the issues with 9th grade data and 
+The data was provided by the district via two CSV files, schools_complete.csv and students_complete.csv. and analysis was conducted through a Jupyter notebook.
+
+After the initial analysis was completed, the district determined all 9th grade math and reading scores from Thomas High School was inaccurate and asked to have it withdrawn.
 
 ## Results
 
