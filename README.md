@@ -34,31 +34,33 @@ To prevent THS 10th, 11th, and 12th grades from being penalized, it's best to co
 
 Comparing this to the previous results, we see a signification improvement to THS's scores, percentages, and overall passing rates. This result gives the district a better view of THS's performance when compared to the other schools, as long as it's noted that the 9th grade population and their grades were not included in the analysis.
 
+### Top 5 performing schools
 ![Top 5 schools](https://github.com/jp3tty/School_District_Analysis/blob/main/Images/adjusted_top5.PNG)
+THS makes the top 5 with the adjustments that were made.
 
+### Bottom 5 Performing Schools
 ![Bottom 5 schools](https://github.com/jp3tty/School_District_Analysis/blob/main/Images/adjusted_bottom5.PNG)
 
+
+### Average Math Score
 ![Ave math by each grade](https://github.com/jp3tty/School_District_Analysis/blob/main/Images/adjusted_school_math_scores.PNG)
 
+
+### Average Reading Score
 ![Ave reading by each grade](https://github.com/jp3tty/School_District_Analysis/blob/main/Images/adjusted_school_reading_scores.PNG)
 
+
+### School Performance Based On Budget Per Student
 ![School performance based on budget](https://github.com/jp3tty/School_District_Analysis/blob/main/Images/adjusted_school_spending_per_student_size_type.PNG)
 
+
+### School Performance Based On Size
 ![School performace based on size](https://github.com/jp3tty/School_District_Analysis/blob/main/Images/adjusted_scores_per_school_size.PNG)
 
-![School performance based on type](https://github.com/jp3tty/School_District_Analysis/blob/main/Images/adjusted_scores_per_school_type.PNG)
 
+### School Performance Based On School Type
+![School performance based on type](https://github.com/jp3tty/School_District_Analysis/blob/main/Images/adjusted_school_spending_per_student_size_type.PNG)
 
-In the school summary 
-
-* How is the school summary affected?
-+++Show how top and bottom 5 has changed+++
-
-Removing Thomas High School's 9th grade
-![adjusted school summary](https://github.com/jp3tty/School_District_Analysis/blob/main/Images/adjusted_school_summary.PNG)
-
-* How does replacing the ninth graders' math and reading scores affect Thomas High School's performace to the other schools?
-By removing Thomas High School's 9th grade population from the moves the school from 2nd overall in our initial analysis to 13th overall.
 
 * How does replacing the ninth-grade scores affect the following:
   * Math and reading scores by grade
