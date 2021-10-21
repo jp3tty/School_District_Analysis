@@ -1,33 +1,41 @@
 # School_District_Analysis
 ## Overview
-A school district requested a snapshot of their high school test results and would like to see the metrics in the following ways:
+A school district requested a snapshot of their high school test results and would like to see the metrics presented in the following ways:
 
 * Top 5 and bottom 5 performing schools, based on the overall passing rate.
 * The average math score received by students in each grade level at each school.
-* The average reading score received by students in each grade level at each s
-* chool.
+* The average reading score received by students in each grade level at each school.
 * School performance based on the budget per student.
 * School performance based on the school size.
 * School performance based on the type of school.
 
-The district provided their data via two CSV files, schools_complete.csv and students_complete.csv. and analysis was conducted through a Jupyter notebook.
+The district provided their data via two CSV files, "schools_complete.csv" and "students_complete.csv." The analysis, conducted through a Jupyter notebook, began by fixing student name entries in the "students_complete.cvs" file and then merged the CSVs in order to sort through the data keys to provide the desired metrics.
 
-
-After the initial analysis was completed, the district determined all 9th grade math and reading scores from Thomas High School was inaccurate and asked to have it withdrawn.
+After the our initial analysis was completed, the district determined that all 9th grade math and reading scores from Thomas High School was inaccurate and asked to have it withdrawn. Using the Jupyter notebook, the reading and math scores values for Thomas High School's 9th grade population (461 students) was located and remove. Below we will disclose the results of the analysis and discuss the impact that removing the scores had overall.
 
 ## Results
+
 * How is the district summary affected?
+The initial district summary 
+![initial district summary](https://github.com/jp3tty/School_District_Analysis/blob/main/Images/initial_district_summary.PNG)
+
+Removing Thomas High School's 9th grade
+![adjusted district summary](https://github.com/jp3tty/School_District_Analysis/blob/main/Images/adjusted_district_summary.PNG)
+
 * How is the school summary affected?
+
+
+Removing Thomas High School's 9th grade
+![adjusted school summary](https://github.com/jp3tty/School_District_Analysis/blob/main/Images/adjusted_school_summary.PNG)
+
 * How does replacing the ninth graders' math and reading scores affect Thomas High School's performace to the other schools?
+By removing Thomas High School's 9th grade population from the moves the school from 2nd overall in our initial analysis to 13th overall.
+
 * How does replacing the ninth-grade scores affect the following:
   * Math and reading scores by grade
   * Scores by school spending
   * Scores by school size
   * Scores by school type
-
-@Image of district summary before
-@Image of district summary after
-
 
 Adjusting the data after the discrepencies were found in Thomas High School 9th grade.
 @Image of Thomas High School before
