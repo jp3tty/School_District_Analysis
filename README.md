@@ -62,7 +62,7 @@ Removing THS's 9th grade reading scores is shown as "nan."
 
 
 ### School Performance Based On Budget Per Student
-![School performance based on budget](https://github.com/jp3tty/School_District_Analysis/blob/main/Images/adjusted_school_spending_per_student_size_type.PNG)
+![School performance based on budget](https://github.com/jp3tty/School_District_Analysis/blob/main/Images/adjusted_spending_per_student.PNG)
 
 Excluding THS's 9th grade population, due to issues with that groups data, helps justify their per student spending due to the schools performance level. If their 9th grade population remained in the analysis but their scores were null, their poor performance (as shown in the Local Impact section above) could cause the district to question the schools service to their students.
 
