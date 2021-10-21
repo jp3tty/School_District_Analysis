@@ -32,26 +32,34 @@ Focusing down to the school level, the affect of excluding THS's 9th grade score
 To prevent THS 10th, 11th, and 12th grades from being penalized, it's best to completely remove both the 9th grade's scores and poplultion when considering the schools scores, percentages, and overall passing rate.
 ![THS 9th completely excluded](https://github.com/jp3tty/School_District_Analysis/blob/main/Images/adjusted_THS_results_(9removed).PNG)
 
-Comparing this to the previous results, we see a signification improvement to THS's scores, percentages, and overall passing rates. This result gives the district a better view of THS's performance when compared to the other schools, as long as it's noted that the 9th grade population and their grades were not included in the analysis.
+Comparing this to the previous results, we see a signification improvement to THS's scores, percentages, and overall passing rates. The average math and reading scores remain the same but, because we excluded THS's 9th grades population, the passing percentages have all improved.
+* Passing math from 66.9% to 93.2%.
+* Passing reading from 69.7% to 97.0%.
+* Overall Passing from 65.1% to 90.6%.
+
+This result gives the district a better view of THS's performance when compared to the other schools, as long as it's noted that the 9th grade population and their grades were not included in the analysis.
 
 ### Top 5 performing schools
+THS is in th top 5 with 90.6% overall passing. If we included their 9th grade population, their overall passing of 65.1% would have placed the below the top 5.
 ![Top 5 schools](https://github.com/jp3tty/School_District_Analysis/blob/main/Images/adjusted_top5.PNG)
-THS makes the top 5 with the adjustments that were made.
+
 
 ### Bottom 5 Performing Schools
 ![Bottom 5 schools](https://github.com/jp3tty/School_District_Analysis/blob/main/Images/adjusted_bottom5.PNG)
 
 
-### Average Math Score
+### Average Math Score For Each Grade
 ![Ave math by each grade](https://github.com/jp3tty/School_District_Analysis/blob/main/Images/adjusted_school_math_scores.PNG)
+Removing THS's 9th grade math scores is shown as "nan."
 
-
-### Average Reading Score
+### Average Reading Score For Each Grade
 ![Ave reading by each grade](https://github.com/jp3tty/School_District_Analysis/blob/main/Images/adjusted_school_reading_scores.PNG)
+Removing THS's 9th grade reading scores is shown as "nan."
 
 
 ### School Performance Based On Budget Per Student
 ![School performance based on budget](https://github.com/jp3tty/School_District_Analysis/blob/main/Images/adjusted_school_spending_per_student_size_type.PNG)
+Excluding THS's 9th grade population, due to issues with that groups data, helps justify their per student spending due to the schools performance level. If their 9th grade population remained in the analysis but their scores were null, their poor performance (as shown in the Local Impact section above) could cause the district to question the schools service to their students.
 
 
 ### School Performance Based On Size
@@ -59,12 +67,10 @@ THS makes the top 5 with the adjustments that were made.
 
 
 ### School Performance Based On School Type
-![School performance based on type](https://github.com/jp3tty/School_District_Analysis/blob/main/Images/adjusted_school_spending_per_student_size_type.PNG)
+![School performance based on type](https://github.com/jp3tty/School_District_Analysis/blob/main/Images/adjusted_scores_per_school_type.PNG)
 
 
 * How does replacing the ninth-grade scores affect the following:
-  * Math and reading scores by grade
-  * Scores by school spending
   * Scores by school size
   * Scores by school type
 
