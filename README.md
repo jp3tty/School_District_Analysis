@@ -15,12 +15,15 @@ After the our initial analysis was completed, the district determined that all 9
 
 ## Results
 
-* How is the district summary affected?
-The initial district summary 
+As seen below, there was little impact to the scores, percentages, and overall passing rate for the 15 schools. 
+
+The initial district summary: 
 ![initial district summary](https://github.com/jp3tty/School_District_Analysis/blob/main/Images/initial_district_summary.PNG)
 
-Removing Thomas High School's 9th grade
+Removing Thomas High School's 9th grade:
 ![adjusted district summary](https://github.com/jp3tty/School_District_Analysis/blob/main/Images/adjusted_district_summary.PNG)
+
+The result is 
 
 * How is the school summary affected?
 
