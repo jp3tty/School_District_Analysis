@@ -32,7 +32,22 @@ Focusing down to the school level, the affect of excluding THS's 9th grade score
 To prevent THS 10th, 11th, and 12th grades from being penalized, it's best to completely remove both the 9th grade's scores and poplultion when considering the schools scores, percentages, and overall passing rate.
 ![THS 9th completely excluded](https://github.com/jp3tty/School_District_Analysis/blob/main/Images/adjusted_THS_results_(9removed).PNG)
 
-Comparing this to the previous results, we see a signification improvement to THS's performance.
+Comparing this to the previous results, we see a signification improvement to THS's scores, percentages, and overall passing rates. This result gives the district a better view of THS's performance when compared to the other schools, as long as it's noted that the 9th grade population and their grades were not included in the analysis.
+
+![Top 5 schools](https://github.com/jp3tty/School_District_Analysis/blob/main/Images/adjusted_top5.PNG)
+
+![Bottom 5 schools](https://github.com/jp3tty/School_District_Analysis/blob/main/Images/adjusted_bottom5.PNG)
+
+![Ave math by each grade](https://github.com/jp3tty/School_District_Analysis/blob/main/Images/adjusted_school_math_scores.PNG)
+
+![Ave reading by each grade](https://github.com/jp3tty/School_District_Analysis/blob/main/Images/adjusted_school_reading_scores.PNG)
+
+![School performance based on budget](https://github.com/jp3tty/School_District_Analysis/blob/main/Images/adjusted_school_spending_per_student_size_type.PNG)
+
+![School performace based on size](https://github.com/jp3tty/School_District_Analysis/blob/main/Images/adjusted_scores_per_school_size.PNG)
+
+![School performance based on type](https://github.com/jp3tty/School_District_Analysis/blob/main/Images/adjusted_scores_per_school_type.PNG)
+
 
 In the school summary 
 
