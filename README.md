@@ -70,12 +70,7 @@ Adjusting the data after the discrepencies were found in Thomas High School 9th 
 @Image of Thomas High School before
 @Image of Thomas High School after
 
-Original Analysis:
-@ Analysis on 15 schools
 
-
-
-Adjusted Analysis:
 
 
 ## Summary
