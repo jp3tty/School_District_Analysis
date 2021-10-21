@@ -14,8 +14,8 @@ The district provided their data via two CSV files, "schools_complete.csv" and "
 After the our initial analysis was completed, the district determined that all 9th grade math and reading scores from Thomas High School (THS) was inaccurate and asked to have it withdrawn. Using the Jupyter notebook, the reading and math scores values for Thomas High School's 9th grade population (461 students) was located and remove. Below we will disclose the results of the analysis and discuss the impact that removing the scores had overall.
 
 ## Results
-
-As seen below, there was little impact to the scores, percentages, and overall passing rate for the 15 schools. 
+### Global Impact
+As seen below, removing THS's 9th grade scoresmakes little impact to the scores, percentages, and overall passing rate for the 15 schools. 
 
 The initial district summary: 
 ![initial district summary](https://github.com/jp3tty/School_District_Analysis/blob/main/Images/initial_district_summary.PNG)
@@ -23,13 +23,16 @@ The initial district summary:
 Removing THS's 9th grade:
 ![adjusted district summary](https://github.com/jp3tty/School_District_Analysis/blob/main/Images/adjusted_district_summary.PNG)
 
-The result gives sense to the weight that 461 students can have over a sample of 39,170. Based on the score removals, it's safe to assume that Thomas' 9th grade, on average, scored higher than the overall district.
+Globally, the result gives a sense to the weight that 461 students can have over a population of 39,170. Based on the reduced overall passing percentage, it's safe to assume that THS's 9th grade, on average, scored higher overall than the district.
 
-The affect of excluding THS 9th grade from the complete data set can have an enormous impact on how the school is considered overall. If THS 9th grade is included in the data but all of their scores are set to null, the overall results drop significantly. As shown here:
-'![THS exclude]()
+### Local Impact
+Focusing down to the school level, the affect of excluding THS's 9th grade scores from the complete data set can have a significant impact on how the school is considered overall. If the 9th grade population is included in the data but all of their scores are set to null, the overall results drop significantly. As shown here:
+![THS exclude](https://github.com/jp3tty/School_District_Analysis/blob/main/Images/adjusted_THS_exclude.PNG)
+
 To prevent THS 10th, 11th, and 12th grades from being penalized, it's best to completely remove both the 9th grade's scores and poplultion when considering the schools scores, percentages, and overall passing rate.
-'![THS 9th completely excluded]()
-Comparing this to the previous results, we can see a signification improvement to THS's performance.
+![THS 9th completely excluded](https://github.com/jp3tty/School_District_Analysis/blob/main/Images/adjusted_THS_results_(9removed).PNG)
+
+Comparing this to the previous results, we see a signification improvement to THS's performance.
 
 In the school summary 
 
