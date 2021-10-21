@@ -64,27 +64,17 @@ Removing THS's 9th grade reading scores is shown as "nan."
 ### School Performance Based On Budget Per Student
 ![School performance based on budget](https://github.com/jp3tty/School_District_Analysis/blob/main/Images/adjusted_spending_per_student.PNG)
 
-Excluding THS's 9th grade population, due to issues with that groups data, helps justify their per student spending due to the schools performance level. If their 9th grade population remained in the analysis but their scores were null, their poor performance (as shown in the Local Impact section above) could cause the district to question the schools service to their students.
+Excluding THS's 9th grade population, due to issues with that groups data, helps justify their per student spending ($638.00) due to the schools high performance level (Overall Passing at 90.6%). If their 9th grade population remained in the analysis but their scores were null, their poor performance (as shown in the Local Impact section above) could cause the district to question the schools service to their students.
 
 
 ### School Performance Based On Size
 ![School performace based on size](https://github.com/jp3tty/School_District_Analysis/blob/main/Images/adjusted_scores_per_school_size.PNG)
+The adjust the THS data also keeps their performance in range with what is expected in performance for it's school size. With a population of 1635 students, we see that its scores, percentages, and overall passing rates are close to what is on average for a medium sized school.
 
 
 ### School Performance Based On School Type
 ![School performance based on type](https://github.com/jp3tty/School_District_Analysis/blob/main/Images/adjusted_scores_per_school_type.PNG)
-
-
-* How does replacing the ninth-grade scores affect the following:
-  * Scores by school size
-  * Scores by school type
-
-Adjusting the data after the discrepencies were found in Thomas High School 9th grade.
-@Image of Thomas High School before
-@Image of Thomas High School after
-
-
-
+As a charter, THS is also preforming close to the average base on the table above.
 
 ## Summary
 1. The overall passing rate for Thomas High School dramatically changed from 91% to 65% after the questionable 9th grade data was removed.
