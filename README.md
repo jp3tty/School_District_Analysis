@@ -23,7 +23,7 @@ The initial district summary:
 Removing THS's 9th grade:
 ![adjusted district summary](https://github.com/jp3tty/School_District_Analysis/blob/main/Images/adjusted_district_summary.PNG)
 
-Globally, the result gives a sense to the weight that 461 students can have over a population of 39,170. Based on the reduced overall passing percentage, it's safe to assume that THS's 9th grade, on average, scored higher overall than the district.
+Globally, the result gives a sense to the weight that 461 students can have over a population of 39,170. Based on the two tables above, removing THS's 9th grade a minimal impact on the district data.
 
 ### Local Impact
 Focusing down to the school level, the affect of excluding THS's 9th grade scores from the complete data set can have a significant impact on how the school is considered overall. If the 9th grade population is included in the data but all of their scores are set to null, the overall results drop significantly. As shown here:
