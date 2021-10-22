@@ -33,16 +33,16 @@ To prevent THS 10th, 11th, and 12th grades from being penalized, it's best to co
 ![THS 9th completely excluded](https://github.com/jp3tty/School_District_Analysis/blob/main/Images/adjusted_THS_results_(9removed).PNG)
 
 Comparing this to the previous results, we see a signification improvement to THS's scores, percentages, and overall passing rates. The average math and reading scores remain the same but, because we excluded THS's 9th grades population, the passing percentages have all improved.
-* Passing math from 66.9% to 93.2%.
-* Passing reading from 69.7% to 97.0%.
-* Overall Passing from 65.1% to 90.6%.
+* Passing math from 67% to 93%.
+* Passing reading from 70% to 97%.
+* Overall Passing from 65% to 91%.
 
 This result gives the district a better view of THS's performance when compared to the other schools, as long as it's noted that the 9th grade population and their grades were not included in the analysis.
 
 ### Top 5 performing schools
 ![Top 5 schools](https://github.com/jp3tty/School_District_Analysis/blob/main/Images/adjusted_top5.PNG)
 
-THS is in th top 5 with 90.6% overall passing. If we included their 9th grade population, their overall passing of 65.1% would have placed the below the top 5.
+THS is in th top 5 with 91% overall passing. If we included their 9th grade population, their overall passing of 65% would have placed the below the top 5.
 
 
 ### Bottom 5 Performing Schools
@@ -64,7 +64,7 @@ Removing THS's 9th grade reading scores is shown as "nan."
 ### School Performance Based On Budget Per Student
 ![School performance based on budget](https://github.com/jp3tty/School_District_Analysis/blob/main/Images/adjusted_spending_per_student.PNG)
 
-Excluding THS's 9th grade population, due to issues with that groups data, helps justify their per student spending ($638.00) due to the schools high performance level (Overall Passing at 90.6%). If their 9th grade population remained in the analysis but their scores were null, their poor performance (as shown in the Local Impact section above) could cause the district to question the schools service to their students.
+Excluding THS's 9th grade population, due to issues with that groups data, helps justify their per student spending ($638.00) due to the schools high performance level (Overall Passing at 91%). If their 9th grade population remained in the analysis but their scores were null, their poor performance (as shown in the Local Impact section above) could cause the district to question the schools service to their students.
 
 
 ### School Performance Based On Size
