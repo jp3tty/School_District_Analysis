@@ -74,7 +74,7 @@ The adjust the THS data also keeps their performance in range with what is expec
 
 ### School Performance Based On School Type
 ![School performance based on type](https://github.com/jp3tty/School_District_Analysis/blob/main/Images/adjusted_scores_per_school_type.PNG)
-As a charter, THS is also preforming close to the average base on the table above.
+As a charter, THS is also preforming close to the average based on the table above.
 
 ## Summary
 1. The overall passing rate for Thomas High School dramatically changed from 65% to 91% after the questionable 9th grade data was removed.
