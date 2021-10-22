@@ -78,6 +78,6 @@ As a charter, THS is also preforming close to the average base on the table abov
 
 ## Summary
 1. The overall passing rate for Thomas High School dramatically changed from 65% to 91% after the questionable 9th grade data was removed.
-2. Thomas High School's overall rank (based on the overall passing percentage) rose from 8th to 2nd. 
+2. Thomas High School's overall rank (based on the overall passing percentage) rose from 8th to 4th. 
 3. After the data correction, Thomas High School's 9th grade math and reading scores show NaN.
 4. In addition to the overall passing rate, the districts math and reading percentages on a global scale have minimally. 
