@@ -15,7 +15,7 @@ After the our initial analysis was completed, the district determined that all 9
 
 ## Results
 ### Global Impact
-As seen below, removing THS's 9th grade scoresmakes little impact to the scores, percentages, and overall passing rate for the 15 schools. 
+As seen below, removing THS's 9th grade makes little impact to the scores, percentages, and overall passing rate for the 15 schools. 
 
 The initial district summary: 
 ![initial district summary](https://github.com/jp3tty/School_District_Analysis/blob/main/Images/initial_district_summary.PNG)
@@ -26,13 +26,13 @@ Removing THS's 9th grade:
 Globally, the result gives a sense to the weight that 461 students can have over a population of 39,170. Based on the two tables above, removing THS's 9th grade a minimal impact on the district data.
 
 ### Local Impact
-Focusing down to the school level, the affect of excluding THS's 9th grade scores from the complete data set can have a significant impact on how the school is considered overall. If the 9th grade population is included in the data but all of their scores are set to null, the overall results drop significantly. As shown here:
+Focusing down to the school level, the affect of excluding THS's 9th grade scores from the complete data set can have a significant impact on how the school is considered within the district. If the 9th grade population is included in the data but all of their scores are set to null, the school appears to be struggling overall. As shown here:
 ![THS exclude](https://github.com/jp3tty/School_District_Analysis/blob/main/Images/adjusted_THS_exclude.PNG)
 
-To prevent THS 10th, 11th, and 12th grades from being penalized, it's best to completely remove both the 9th grade's scores and poplultion when considering the schools scores, percentages, and overall passing rate.
+To prevent THS 10th, 11th, and 12th grades from being penalized, it's best to completely remove both the 9th grade's scores and poplultion when considering the schools scores, percentages, and overall passing rate. This table shows the result:
 ![THS 9th completely excluded](https://github.com/jp3tty/School_District_Analysis/blob/main/Images/adjusted_THS_results_(9removed).PNG)
 
-Comparing this to the previous results, we see a signification improvement to THS's scores, percentages, and overall passing rates. The average math and reading scores remain the same but, because we excluded THS's 9th grades population, the passing percentages have all improved.
+Comparing these two tables, we see a signification improvement to THS's scores, percentages, and overall passing rates. The average math and reading scores remain the same but, because we excluded THS's 9th grades population, the passing percentages have all improved.
 * Passing math from 67% to 93%.
 * Passing reading from 70% to 97%.
 * Overall Passing from 65% to 91%.
